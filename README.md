@@ -15,3 +15,10 @@ The system measures distances around the vehicle, detects a suitable parking spa
 3. Check the wiring and pin assignments.
 4. Upload the code and test the system in a safe, open area.
 
+
+
+
+https://github.com/user-attachments/assets/1610f91f-0d4a-40c4-b3de-e9a6af5c3744
+
+
+
